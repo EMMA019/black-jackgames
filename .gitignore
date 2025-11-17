@@ -1,0 +1,45 @@
+# --- Security and Local Data ---
+# Ignore the active environment file. Never commit this!
+.env
+# Ignore the example environment file if it contains sensitive defaults
+# (Although usually .env.example *is* committed, if it's truly just an example)
+# .env.example
+
+# Ignore the SQLite database file
+blackjack.db
+
+# --- Python Cache ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# --- Virtual Environment ---
+# Standard virtual environment folder
+venv/
+env/
+.venv/
+.env/
+
+# --- OS-specific files ---
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.nfs*
+
+# --- IDE / Editor specific ---
+.vscode/
+.idea/
+*.swp
+*.swo
