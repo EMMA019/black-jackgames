@@ -146,4 +146,4 @@ Navigate to the following address in your web browser:
 
 http://localhost:5000
 
-(or https://www.google.com/search?q=http://127.0.0.1:5000)
+(or　http://127.0.0.1:5000)
