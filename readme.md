@@ -38,7 +38,7 @@ Frontend
 
 HTML5
 
-CSS3: Custom casino-themed styling (based on frontend_spec.md).
+CSS3: Custom casino-themed styling 
 
 JavaScript (ES6+): Socket.IO client for state-driven UI updates.
 
