@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da1cc9b6-b9c2-44cb-a9f9-32b01b5e927f" />
+
 ♠️ BlackJack Casino AI (Production Ready)
 
 This is a scalable, real-time Blackjack game built with Python, Flask, SocketIO, and Redis. It features an AI opponent with three difficulty levels and is built on a robust architecture designed for production deployment.
